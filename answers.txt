@@ -1,0 +1,5 @@
+Q1: 0d8d1189
+Q2: 3
+Q3: git pull — downloads and integrates my teammate’s changes before I push.
+Q4: No. Adding a committed secret to .gitignore does not remove it from Git history. A real exposed password must be changed.
+Q5: Local: git branch -d old-fix; remote: git push origin --delete old-fix
